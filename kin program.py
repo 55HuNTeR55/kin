@@ -50,4 +50,4 @@ if __name__ == "__main__":
     aboutukin()
     name()
 
-    speak("hey sexy lady!")
+    speak("hello world!")
